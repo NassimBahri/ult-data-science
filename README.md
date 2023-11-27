@@ -18,7 +18,7 @@ Vous pouvez aussi utiliser le service cloud de Google avec la solution [Google C
 ## Structure de ce répertoire
 
 * Initiation à la bibliothèque numérique numpy : [Énoncé](Initiation-numpy.ipynb) | [Correction](Correction_Initiation_numpy.ipynb)
-* Initiation à la bibliothèque Pandas [Énoncé](chapitre1)
+* Initiation à la bibliothèque Pandas [Énoncé + dataset](initiation-pandas)
 
 ## License
 
